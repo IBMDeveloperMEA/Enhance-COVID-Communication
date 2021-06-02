@@ -250,3 +250,4 @@ Now that you know how to create a COVID-19 chatbot and connect it to Watson Disc
 - [Mofizur Rahman](https://developer.ibm.com/profiles/mofizur.rahman) - IBM
 - [Pooja Mistry](https://developer.ibm.com/profiles/pmistry/) - IBM
 - [Upkar Lidder](https://developer.ibm.com/profiles/ulidder/) - IBM
+
